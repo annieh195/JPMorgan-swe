@@ -14,4 +14,4 @@ spring:
       key-serializer: org.apache.kafka.common.serialization.StringSerializer
       value-serializer: org.apache.kafka.common.serialization.StringSerializer
 general:
-  kafka-topic: forage-midas
+  kafka-topic: JPMorgan-swe
